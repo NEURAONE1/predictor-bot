@@ -7,7 +7,7 @@ from telegram.ext import (
 )
 
 # ============================================================
-BOT_TOKEN = "8846798377:AAG9FJNmKDcf3zoQvIOWLSth6tkxEVaMqBs"
+BOT_TOKEN = "8846798377:AAFG16qdbdI6ua3wsgwZlFKB0Mn3T8oFw0I"
 BOT_USERNAME = "predictor_bot"
 ADMIN_IDS = [6896407205]
 SUPPORT_USERNAME = "Predictorisdope"
