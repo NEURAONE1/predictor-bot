@@ -10,7 +10,7 @@ from telegram.ext import (
 # ============================================================
 #  ⚙️  CONFIG - YAHAN APNI VALUES BHARO
 # ============================================================
-BOT_TOKEN = "8846798377:AAG9FJNmKDcf3zoQvIOWLSth6tkxEVaMqBs"           # @BotFather se lo
+BOT_TOKEN = "8846798377:AAH8BKhwy6Z-GpFUDGBk_kCRnVwvSZJAiZw"           # @BotFather se lo
 BOT_USERNAME = "predictor_bot"          # without @
 
 ADMIN_IDS = [6896407205]                     # Tera Telegram User ID
